@@ -1,116 +1,116 @@
-There are 112 developers on Connect with *Mage* in their name, distributing some 700 extensions (over 10% of the total).
-
-In case you are thinking of a Mage name, then make sure you don't pick any of these:
-
-7thSENSE+Magento+E-Commerce+Systeme 
-Add+In+Mage 
-BeMaged 
-Best4Mage 
-briel_mage 
-Ecommage 
-eMagenio 
-ext4mage 
-ezMage 
-GoMage 
-Haltngomage 
-Mage+RoB 
-Mage+Solution 
-MAGE4ALL 
-mageaddon 
-MageApps 
-mageb2b 
-mageb2bextensions 
-magebackup 
-Magebase 
-magebassi 
-magebay 
-magebeam 
-magebid_connect 
-Magebird 
-Magebit 
-MageBright 
-MageBuzz 
-mageCloud 
-MageClub 
-magecoders 
-magecoding 
-magedelight 
-MageDevelopment 
-Mageex 
-MageExtensions 
-MageFam 
-mageflow 
-magefox 
-Magegaga 
-Magegiant 
-MageGuys 
-Mageho 
-MageInventory 
-Mageist 
-mageixllc 
-magekart 
-MageKing 
-Magemallow 
-Magemania 
-MageMatrix 
-magemaven 
-magemechanics 
-MageMod_Ext 
-Magenextension 
-MagenMagic 
-magentec 
-Magenthemes 
-magentixfr 
-Magento 
-Magento+Lab 
-magentools 
-magentoTi 
-magentowebdev 
-magento_helden 
-Magentron 
-Magen_Market 
-mageone 
-mageoutsourcing 
-MageOxy 
-MageParts 
-MagePermissions 
-magepilot 
-MagePlace 
-mageplugins 
-MagePsycho 
-Magerevol 
-MageRevolution 
-MageryThemes 
-mageshopapps 
-MageSpecialist 
-magespider 
-MagespotCrew 
-magestation 
-Magestore 
-Magesty 
-MageTechs 
-MageTitan 
-Magetools+Kuo 
-MageTrend 
-mageware 
-magewhiz 
-MageWhizz 
-magewidgets 
-MageWorld 
-MageWorxcom 
-Magextended 
-magextensions 
-Mage_Designer 
-Mage_Workshop 
-Mastering+Magento 
-ModifyMage 
-moremage 
-Next2Mage 
-onesaas_magento 
-Riskified_Mage 
-robin4magento 
-SaveTheMage 
-ScommerceMage 
-theMageComp 
-UpgradeMage 
-WakaMage 
+- There are 112 developers on Connect with *Mage* in their name distributing some 700 extensions (over 10% of the total).
+- 
+- In case you are thinking of a Mage name, then make sure you don't pick any of these:
+- 
+- 7thSENSE+Magento+E-Commerce+Systeme 
+- Add+In+Mage 
+- BeMaged 
+- Best4Mage 
+- briel_mage 
+- Ecommage 
+- eMagenio 
+- ext4mage 
+- ezMage 
+- GoMage 
+- Haltngomage 
+- Mage+RoB 
+- Mage+Solution 
+- MAGE4ALL 
+- mageaddon 
+- MageApps 
+- mageb2b 
+- mageb2bextensions 
+- magebackup 
+- Magebase 
+- magebassi 
+- magebay 
+- magebeam 
+- magebid_connect 
+- Magebird 
+- Magebit 
+- MageBright 
+- MageBuzz 
+- mageCloud 
+- MageClub 
+- magecoders 
+- magecoding 
+- magedelight 
+- MageDevelopment 
+- Mageex 
+- MageExtensions 
+- MageFam 
+- mageflow 
+- magefox 
+- Magegaga 
+- Magegiant 
+- MageGuys 
+- Mageho 
+- MageInventory 
+- Mageist 
+- mageixllc 
+- magekart 
+- MageKing 
+- Magemallow 
+- Magemania 
+- MageMatrix 
+- magemaven 
+- magemechanics 
+- MageMod_Ext 
+- Magenextension 
+- MagenMagic 
+- magentec 
+- Magenthemes 
+- magentixfr 
+- Magento 
+- Magento+Lab 
+- magentools 
+- magentoTi 
+- magentowebdev 
+- magento_helden 
+- Magentron 
+- Magen_Market 
+- mageone 
+- mageoutsourcing 
+- MageOxy 
+- MageParts 
+- MagePermissions 
+- magepilot 
+- MagePlace 
+- mageplugins 
+- MagePsycho 
+- Magerevol 
+- MageRevolution 
+- MageryThemes 
+- mageshopapps 
+- MageSpecialist 
+- magespider 
+- MagespotCrew 
+- magestation 
+- Magestore 
+- Magesty 
+- MageTechs 
+- MageTitan 
+- Magetools+Kuo 
+- MageTrend 
+- mageware 
+- magewhiz 
+- MageWhizz 
+- magewidgets 
+- MageWorld 
+- MageWorxcom 
+- Magextended 
+- magextensions 
+- Mage_Designer 
+- Mage_Workshop 
+- Mastering+Magento 
+- ModifyMage 
+- moremage 
+- Next2Mage 
+- onesaas_magento 
+- Riskified_Mage 
+- robin4magento 
+- SaveTheMage 
+- ScommerceMage 
+- theMageComp 
+- UpgradeMage 
+- WakaMage 
