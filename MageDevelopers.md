@@ -1,7 +1,7 @@
-- There are 112 developers on Connect with *Mage* in their name distributing some 700 extensions (over 10% of the total).
-- 
-- In case you are thinking of a Mage name, then make sure you don't pick any of these:
-- 
+There are 112 developers on Connect with *Mage* in their name distributing some 700 extensions (over 10% of the total).
+ 
+In case you are thinking of a Mage name, then make sure you don't pick any of these:
+ 
 - 7thSENSE+Magento+E-Commerce+Systeme 
 - Add+In+Mage 
 - BeMaged 
